@@ -13,7 +13,7 @@ ms.lastreviewed: 08/13/2021
 # Emergency VM access (EVA) - Public preview
 
 > [!IMPORTANT]
-> Emergency VM access for Azure Stack Hub is in public preview and only applies to version 2108.
+> Emergency VM access for Azure Stack Hub is in public preview and only applies to version 2108 or later.
 
 The Emergency VM Access Service (EVA) enables a user to request help from the operator in scenarios in which that user is locked out from the virtual machine, and the redeploy operation does not help to recover access via the network.
 
